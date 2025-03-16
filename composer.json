@@ -26,7 +26,7 @@
         }
     },
     "suggest": {
-        "concept-labs/arrays": "Arrays API. DOT Arrays"
+        "concept-labs/arrays": "Arrays API. DOT Arrays",
         "concept-labs/singularity": "PSR Container. Powerfull aAnd Flexable Dependency Injection pack"
     }
 }
